@@ -160,9 +160,9 @@ header {
   margin-bottom: 0px;
 }
 
-/* Story */
+
 .story-item {
-  /* background: green; */
+
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -260,9 +260,9 @@ header {
   border-top: 1px solid hsl(0, 0%, 86%);
 }
 
-/* Mobile Tabs */
+
 .mobile-tabs {
-  /* background: pink; */
+  
 }
 .mobile-tabs li {
   font-size: 14px;
@@ -289,7 +289,7 @@ header {
   border-top: 1px solid rgb(219, 219, 219);
 }
 
-/* Gallery */
+
 .gallery-item img {
   width: 100%;
   display: block;
